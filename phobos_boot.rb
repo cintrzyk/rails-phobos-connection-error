@@ -1,4 +1,6 @@
 # Use this file to load your code
+require_relative './config/environment'
+
 puts <<~ART
   ______ _           _
   | ___ \\ |         | |
